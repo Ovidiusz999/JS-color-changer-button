@@ -1,0 +1,29 @@
+div {
+   background-color: black;
+   width: 200px;
+   height: 200px;
+   margin: auto;
+   border-color: white;
+   border-width: 10px;
+   border-style: solid;
+   border-radius: 10px;
+   margin-top: 50px;
+   margin-bottom: 50px;
+}
+
+body {
+   text-align: center;
+   background-color: black;
+}
+
+button {
+   background-color: black;
+   color: white;
+   border-color: white;
+   border-radius: 50px;
+   width: 300px;
+   height: 75px;
+   border-width: 10px;
+   border-style: solid;
+   font-weight: bolder;
+}
